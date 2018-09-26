@@ -161,7 +161,7 @@ function initCanvas() {
 function initInput() {
   input = document.getElementById('input');
   input.addEventListener('keyup', updateText);
-  input.value = '404 Error';
+  input.value = 'UH OH';
    }
 
 function updateText() {
